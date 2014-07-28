@@ -1,0 +1,21 @@
+[
+{
+  "modid": "ModLearning",
+  "name": "Mod Learning",
+  "description": "Micknick18 Mod!",
+  "version": "1.0",
+  "mcversion": "1.7.10",
+  "url": "",
+  "updateUrl": "",
+  "authorList": [
+    "Micknick18"
+  ],
+  "credits": "micknick18",
+  "logoFile": "",
+  "screenshots": [
+  ],
+  "parent":"",
+  "dependencies": [
+  ]
+}
+]
