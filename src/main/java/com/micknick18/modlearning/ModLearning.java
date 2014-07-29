@@ -1,6 +1,7 @@
 package com.micknick18.modlearning;
 
 import com.micknick18.modlearning.handler.ConfigurationHandler;
+import com.micknick18.modlearning.init.ModBlocks;
 import com.micknick18.modlearning.init.ModItems;
 import com.micknick18.modlearning.proxy.IProxy;
 import com.micknick18.modlearning.reference.Reference;
@@ -29,6 +30,8 @@ public class ModLearning
         LogHelper.info("Pre Initialization Complete!");
 
         ModItems.init();
+
+        ModBlocks.init();
     }
 
     @Mod.EventHandler
